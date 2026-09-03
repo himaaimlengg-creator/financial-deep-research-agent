@@ -1,0 +1,25 @@
+# API keys and environment variables
+.env
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Testing cache
+.pytest_cache/
+
+# Generated reports
+outputs/*
+!outputs/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+
